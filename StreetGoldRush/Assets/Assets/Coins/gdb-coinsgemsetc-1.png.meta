@@ -1,0 +1,4668 @@
+fileFormatVersion: 2
+guid: 6893ea0be787bd24996d34fc90227815
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 243
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d66d70f71fbb7941ae7f27e083d2dc0
+      internalID: 1999130910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 243
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85b039780402be47a91b20998afde24
+      internalID: 1113319144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 243
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f6a0e2b8734814297b6d50108f59a3
+      internalID: 2069951437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 243
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d14b7b59658872408f379e4a9446aa3
+      internalID: -931050220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 243
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f2d52dd586f7e47984026128b488f7
+      internalID: 145540786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 243
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bf6b27cbd80964db359a5154b626a5
+      internalID: 521203938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 243
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1a8c8f0463cf04fac7ab16aab58a84
+      internalID: 403267513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 243
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6679d30277de4874fb0d6c56d09f67c6
+      internalID: -178737281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_8
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 243
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b38423e2d6a1754b922b4f0ed339b42
+      internalID: 1211865934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_9
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 195
+        width: 4
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0b9567186989146a5f231e0f276030
+      internalID: 1090212507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_10
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 243
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f32bd15e5a48b94aa94905a3857ae77
+      internalID: -1159446277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 243
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b531d37829eadc4086a80290acf174e
+      internalID: 913349665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 243
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d227732317228f41b47ca23e7bf29c1
+      internalID: 1718331243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_13
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 243
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acaf385a357f4db49bcc0f2e55a87f96
+      internalID: 662546881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_14
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 195
+        width: 20
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfc7313946014749a866d240903fe5d
+      internalID: 1114937130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_15
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 243
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17db9ffb3edaf147b578512d8adc49c
+      internalID: -1194635574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_16
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 243
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee625b0e491d684e87c280e9bf4677b
+      internalID: 566400040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_17
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 227
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e512cb5a1f0473441a2a77012b27e1da
+      internalID: -1850614448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 227
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e261eb734b5e5874a80a83cae1183df2
+      internalID: -251700434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_19
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 227
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6389245aa4ea794a884e16307dd1392
+      internalID: -2001673703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_20
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 227
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df42ebc030fed142b533ca4188858b3
+      internalID: 45527253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 227
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44eef0a6440745a40b39ed8067861e45
+      internalID: 967165878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 227
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32596efbaa47f3f41a891f3ed3d7c6f5
+      internalID: -1095124683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_23
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 227
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fa18ae298d50d4e824cd345b08d03f
+      internalID: 221608377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 227
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c49fef8f4c8144085ea3b062b5c2de
+      internalID: 115145466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_25
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 227
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a934bea7e484e56489f6d81a10b6be32
+      internalID: -25747483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_26
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 227
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f839925355653514a86ed02fb6c9becd
+      internalID: -1738297489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_27
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 227
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc0ed4a8fac4724c9226516f71aa57f
+      internalID: -731743051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_28
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 227
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9fdae187e17664796944eca108e85b
+      internalID: 535186388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_29
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 227
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d7d8ba140815245b506cf6c92625f0
+      internalID: 1646841226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_30
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 227
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967e25637051e9e408ade3c53809e9fd
+      internalID: -976380767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_31
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 227
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39f9a934c8e90e4e8cf06390dcb84ec
+      internalID: -2117507660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_32
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 227
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3c5a6551f3bd041aae29849c5782a0
+      internalID: -1864291385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_33
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 211
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2297d9c0114bd5947a5caecc3f3fe6fd
+      internalID: -1557017061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 211
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730d64ce26d01ab4380e154287841534
+      internalID: 849024358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_35
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 211
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f599b6d3705b4a4299137fcdc025465
+      internalID: 1248624079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_36
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 211
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adcfa537083e914da2decd3c8636911
+      internalID: 342787223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_37
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 211
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89921e469e349c4a9e953d645c3f3cb
+      internalID: 1755912914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 211
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02628b7958d6bdc4b83e0c995a301728
+      internalID: 97569095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_39
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 211
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78f88ed71852b0429401f035eec407e
+      internalID: 1358784562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_40
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 211
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e319c103b9d8f2428be27869478e34f
+      internalID: -1225555722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_41
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 211
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354684c9b317edd409a5bc2b02244bb1
+      internalID: 806861628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_42
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 211
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52391186ece63b74fb3d9bd77da60e8a
+      internalID: -229914117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_43
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 211
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ea1ed8d3bf4f64b8f6595a994f87f5
+      internalID: 539705934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_44
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 211
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1063b30187b00ec42a5f4453ef7c7fcb
+      internalID: -844815031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_45
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 211
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e8f875d32d61244b0086244a5a759b
+      internalID: -1338663664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_46
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 211
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a524c3755392274da99c7e21e803f00
+      internalID: 1347846373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_47
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 211
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261c5ec283b635c49b01928ca4adc37b
+      internalID: 1404622541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_48
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 211
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941ee8f3db12f474db25381ed2cf0f0d
+      internalID: 239358716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_49
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 195
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ed8cdf841f14d419698c85e5edbd69
+      internalID: 452099572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 195
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf8a0b23e15025439fef29d2808b20d
+      internalID: 1336685281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_51
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 195
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9848c5e74803daf4ebbbbf63be342a77
+      internalID: -1478606516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_52
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 195
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b775d29ee93a6042bc9b704382210f2
+      internalID: 276585626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_53
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 195
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f06d7e281c524458fb0ddd6fb5c04b
+      internalID: -1326615599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 195
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ade5bc9232bdfe4880b3ce3a939a606
+      internalID: -1195799987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_55
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 195
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e9bbf75940bd4499393974297be798
+      internalID: 1875367137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_56
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 195
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9650aa4176e9be14d94e213b3956f769
+      internalID: 1597389496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_57
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 195
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38db827d90c47944bb5327708ec6bc0
+      internalID: 27640015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_58
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 195
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5081b3f2a44a6ab4387fe6dc0fb3be20
+      internalID: -148413332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_59
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 195
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed43f854f063c04eae8b2cd6468b797
+      internalID: -313956022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_60
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 195
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2a84b6de2c7b34c905bd870f691486
+      internalID: 1225341451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_61
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 195
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fa14be4fb30c24a91e46e69678a14f
+      internalID: 368349291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_62
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 195
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c9ca7b5adde5d41bf070d0e8f54703
+      internalID: 1501377746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_63
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 195
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17796fe3b9a800a4f8096c6948ac74a7
+      internalID: 1211605865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_64
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 195
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8c8bf9c03f8a3458a63b63f5d3e8eb
+      internalID: 2031902563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_65
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 147
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4f3b0a983ebba40bbf0b153f5f37e1
+      internalID: -1525336409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_66
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 147
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645b48fedc7cc6947b920762e30cbc42
+      internalID: -1477161938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_67
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 147
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2bb7bf004e2d445bbd5e7083e58a5a
+      internalID: -1822096544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_68
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 147
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac8d647ae605be428da29b17d385773
+      internalID: 620141045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_69
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 147
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ffc35333444a54f88e88cf2d0c460e
+      internalID: -2101042624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_70
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 147
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da5e4de22fa6e347a05548cfe0718fd
+      internalID: 590231889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_71
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 147
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc378074ff4b1ec469cf866edb24cd73
+      internalID: 955207200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_72
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 147
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89bb9998c770054fa919f3a546294c1
+      internalID: -131748404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_73
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 147
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4243de6984ba99846ae0e08044b749ba
+      internalID: 1945874054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_74
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 147
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f32b73e330a654bb6e052a1cc84ee1
+      internalID: -1871879058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_75
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 147
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb4bf88ef2c02c4a89606859379f64f
+      internalID: 1532893362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_76
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 147
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6260435f1efe7ad459d6c6294201835e
+      internalID: 2074767098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_77
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 147
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a2362cdfbc957439eeae6765b5da53
+      internalID: 459568354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_78
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 147
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bcb96c15ceff243bf518971ea5e95a
+      internalID: -786809610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_79
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 147
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea4c42f519135f4eb5727a05893d382
+      internalID: -1316739000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_80
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 147
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0642cb316414d0c4fa4631913c844950
+      internalID: 129121678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_81
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 147
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce191e0901ebdf3438faccfd27eec1b1
+      internalID: -1318730623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_82
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 131
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77af17f7dd9418441b46c598700ce007
+      internalID: -1658242396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_83
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 131
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e79b9c205d9c5e4290014353491bbc9
+      internalID: -883796492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_84
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 131
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90154dab4d497d4bb28f1360eef5541
+      internalID: -468864608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_85
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 131
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af38f476cd5bf344badada253eacdd4
+      internalID: 2025242620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_86
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 131
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5295f63b5e8297f41b164c71c351c110
+      internalID: 227378173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_87
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 131
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba90b46122b4f54a82997b9d1c9c47b
+      internalID: 1918954238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_88
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 131
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffe6a273b3eb034180ab96517e8ca60
+      internalID: -373990599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_89
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 131
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878267bc7440ce84ab49c92da07423ad
+      internalID: 1486151007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_90
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 131
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00abfafab2789e4db035ae079ec1462
+      internalID: 197591350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_91
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 131
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad090a0e498160645814cb744105350c
+      internalID: 425993307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_92
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 131
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ae7dcb52ec29645b60951c60277fa6
+      internalID: 648989072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_93
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 131
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcac1d709c0fef40ad8c9b7b162f6a0
+      internalID: -729946979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_94
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 131
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca9afd8fe022d14da35739886d06fe6
+      internalID: 200185879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_95
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 131
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580f0cd8954ca8d4c82402f1fbcde493
+      internalID: -1335216997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_96
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 131
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df36de0b322874418b35f64bcd29492
+      internalID: -368674971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_97
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 131
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6207625ef37fb4e4eb15eb06c6be5cfe
+      internalID: 862819243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_98
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 131
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832a945f5ace3e7468d81362df08f0fe
+      internalID: 1047761838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_99
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 115
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858b5d29526f99f4e9f3fa5aa9e6ffd9
+      internalID: -746278559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_100
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 115
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec78c3bf6bdf6c47b3b516be0ca4a29
+      internalID: 1105653478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_101
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 115
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd711962b3a8f7438027e14a31c4618
+      internalID: -1406375255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_102
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 115
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d0437c9b36a8842b87e3dbc5ae24bc
+      internalID: 1264816318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_103
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 115
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526befa8ad7f5b34998b19a04ed122be
+      internalID: 1096711882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_104
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 115
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96dba4161c00d44c9e0a5646c375da2
+      internalID: 591440016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_105
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 115
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e63c1cb1a49e64fbffe09bb9bd1d52
+      internalID: -1822450944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_106
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 115
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2450cdbfb5df3c04ea564e779f3a31ae
+      internalID: -594569282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_107
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 115
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37af00ebc9f1f5e4e9ddad305bb6b02e
+      internalID: -1931003352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_108
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 115
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1fcc6099ccadf4186565b0aa46183f
+      internalID: -1462709805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_109
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 115
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c6ae7e44007064da035ae7d3a60275
+      internalID: -1935213640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_110
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 115
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c97750fbbb0ea448923cd8f71a8da23
+      internalID: 1477547720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_111
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 115
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b961ee57f454b34e98a86b35487aa4f
+      internalID: -573353506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 115
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14008ce6fa8703b459307885b8175ecc
+      internalID: -1797071448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_113
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 115
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac9ddb66d21d894ea9e6eb5c86ad9e0
+      internalID: -775859143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_114
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 115
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc64be9e28145124ead80e46ebed4ed0
+      internalID: 625612662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_115
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 115
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e0c2f58e836e94abf2b8d54e0101fb
+      internalID: -235105340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_116
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 99
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2226310ebe8f546a7b4caa81b9b018
+      internalID: -452032464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_117
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 99
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f246c538fb300bf4b9b29747c4b3ac88
+      internalID: 2143202311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_118
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 99
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1823af7b20aff484db877a9aa22517cd
+      internalID: 2054592204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_119
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 99
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a461865559dc5488e47c51a9ec9607
+      internalID: 1244066365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_120
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 99
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a3f2e62dc61904aa2f164d67cc0e56
+      internalID: 1391011383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_121
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 99
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60b335c1ac16e64282ce148d7b7a363
+      internalID: 695643394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_122
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 99
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460d7191bf4389447a278ef547e02d33
+      internalID: -1161289920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_123
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 99
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77048081c24a812498f1ded6e92947b8
+      internalID: 1354153812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_124
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 99
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2a2bedfc09f43409b3dc91b0dbb733
+      internalID: 1714343080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_125
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 99
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1a23044931bfb4eadcd581ba2b1513
+      internalID: 83850687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_126
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 99
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e935f534e8e57ed4d9dcc7068ca97f21
+      internalID: -1410578247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_127
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 99
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f69f6509264534fabfd3f91f964f1a
+      internalID: -1178684248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_128
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 99
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef3ecf04bf4a0c44aa5ceb1b6d80153
+      internalID: -239835352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_129
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 99
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8d9a8485a66e342afc80bb8eb45da4
+      internalID: -152055977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_130
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 99
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a038b179504e84cbbfed7800babc03
+      internalID: -1599816037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_131
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 99
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a615d2ad5d39245a835df567f9305a
+      internalID: -1672514604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_132
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 99
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f40a16a6c65da4c8f87015cb8e6f8d
+      internalID: 1481500998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_133
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 51
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733e901d13e6ce74cb6f42700fcd4a6a
+      internalID: -1088780858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_134
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 51
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f38356acc5f9904cbfc6d7405be72a8
+      internalID: -332043410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_135
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 51
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f6aa2c2eed1df4eb1857575608b6cf
+      internalID: -1507649598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_136
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 51
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c95d01a71bad714cb5c94026bb8cb6c
+      internalID: -574008247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_137
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 51
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2030e606da973fb4d8ad5324cd0b2d16
+      internalID: -1274420142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_138
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 51
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be8635c556ad4046b93486575a613d6
+      internalID: -819287765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_139
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 51
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ad069e63796b14e8f45d5ac1349ce2
+      internalID: 1152522942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_140
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 51
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eccd1a71d1a48d49824caeda7a1d5f1
+      internalID: -1431469341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_141
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 51
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46676694065041b47a81e4c269bf5187
+      internalID: 262879601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_142
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 51
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448f72cf55991b547bc4cc42f66a2899
+      internalID: 87642045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_143
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 51
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d346670650ae0534cafc0802e7b31751
+      internalID: 1253747262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_144
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 51
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671784164bf594443ac8f7ef0e8246b7
+      internalID: 259389581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_145
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 51
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bec40aed8a5ad4eaa2a379d7d39da8
+      internalID: 1962705953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_146
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 51
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a199f2bd6759f1540943b3d0d45c0dd5
+      internalID: -1324520135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_147
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 51
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92e2cb5543b53c4fbb162c4a75875f3
+      internalID: 1969878274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_148
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 51
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281987b03264f434f91686be3cd5bf1f
+      internalID: 75599345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_149
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 51
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59afc2fbd042ac447b4ce92693debcdb
+      internalID: 48709286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_150
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 51
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2248d0ec1898b844a143322d1af9c31
+      internalID: -409361546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_151
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 35
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dac491c14b37c34f97559d6910533a7
+      internalID: 1801046405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_152
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 35
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6d4d36b024c4748b8a781d2fce356f
+      internalID: -791934228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_153
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 35
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e78805afb5bcc49ae3f645574a8d90
+      internalID: 1583849996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_154
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 35
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a9e050b2b3db84385e74c3704480ac
+      internalID: 343732702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_155
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 35
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ac4d4ee3716364b81495a547ed8329
+      internalID: -1683486805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_156
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 35
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcc758380669c3418c0d4c32bd971b6
+      internalID: 775102757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_157
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 35
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6971c72cc15034049b7f87f1d41df0cb
+      internalID: 804804362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_158
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 35
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b28557e859b0341bce9b6b72a85b86
+      internalID: 2088805646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_159
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 35
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3cf59328854604d9cf0640b7866239
+      internalID: -1764939036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_160
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 35
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba509f078bc95f843a7d52d039d9f534
+      internalID: -381028229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_161
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 35
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453ebba2c15cc764aae68f3d98040554
+      internalID: 1682016035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_162
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 35
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b250bf121be364a8a93c62a3c4c5d2
+      internalID: 1942648054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_163
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 35
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1984d1357f177314887fe803bbb941dc
+      internalID: 1794866969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_164
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 35
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db5eb18db5269c4fb7887da325acdad
+      internalID: 589527517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_165
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 35
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ede830efd03134ea6ee47c6731d5d4
+      internalID: -759182421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_166
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 35
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0df69738b690b4fb40c04e853e67c9
+      internalID: -538384915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_167
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 35
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476ed19e540608b4c907beee46659d7b
+      internalID: 597532569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_168
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 35
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb824d4274ca24744a8c58bddbdd5b26
+      internalID: 989809288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_169
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec838613f28dbf445ac0cb01af038352
+      internalID: 1624061402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_170
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbbba66d00267640a6f91869242ed13
+      internalID: -1766318534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_171
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b289f08875408489dd464aab1d8c31
+      internalID: 1648927627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_172
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfe3cb876140244ea1573cc659d8186
+      internalID: -18334024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_173
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a0fe1bec43de64a9e275ab834fec01
+      internalID: 1740849491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_174
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50202d99b4e27444dba5fbc03c779661
+      internalID: 1896052976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_175
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 19
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a97ecc8feb986f43845eee2efc690d0
+      internalID: 1692553935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_176
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 19
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c943a9acab7c05b49b03dddd698da064
+      internalID: 822878637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_177
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 19
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5000983a40d5d47861b16ffa3f5bbd
+      internalID: -1155763947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_178
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 19
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0154ce175ed7540b6d9012dd94590f
+      internalID: 161668658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_179
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 19
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8e28f080151c04292232b48971cb5c
+      internalID: -1709648317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_180
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 19
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52c1a0043909834f9904487ba52989a
+      internalID: 1014430928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_181
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 19
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7db8552a2d9a94f9e00419bc4b7514
+      internalID: -953959057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_182
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 19
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cb0f1f8b98950439ff51da03f0a14b
+      internalID: -700093221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_183
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 19
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a57fdc7bd9d89f499c702cd8e1bb301
+      internalID: 648693638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_184
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 19
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df29683f0bfc00a43b8602a212d10344
+      internalID: 1104075663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_185
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 19
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff991c1bd1402242bdcd157bf21cf44
+      internalID: 1766013193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_186
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 19
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc0aea202e3c8645909e83e2ae31f1f
+      internalID: 1173402877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_187
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee2bfee54ca67741928c6abdff089e1
+      internalID: -518663178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_188
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 3
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c67c5186267a4a45a7080426f5ab249
+      internalID: 1675688894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_189
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 3
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a06465ee64066e44988f135ac301780
+      internalID: 1330882276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_190
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 3
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01aa2d150b6c477439cf2eccfe3483d9
+      internalID: 600530360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_191
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 3
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcb16b718bfacc4c8b6b5576462791b
+      internalID: 1709662538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_192
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 3
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aeb931241b96c94d833e59f4d11a99b
+      internalID: -1205671871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_193
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59b86f30028a204586cc5abee42b615
+      internalID: -319918003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_194
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 3
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342a3fe87c8f6c042a3407efcee686a6
+      internalID: -51176714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_195
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 3
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0467bfbc4e47354697e3ed7c6654708
+      internalID: -1412248771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_196
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 3
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac27ef1a642fec4f82fc8f358102a39
+      internalID: 983315595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_197
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349d61fcb8e838045b70823afca7e72c
+      internalID: 1703534458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_198
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 3
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50c2ffbba02db84b94549720cb212e8
+      internalID: -150787290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_199
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 3
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06af8ab91f74f84498ee79275378d78a
+      internalID: -2099709199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_200
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 3
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2d90d3dd436274994b1d19cde739c6
+      internalID: -1350708325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_201
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 3
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f679078f0606da04fbe4d2cf1293a242
+      internalID: -811012775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_202
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 3
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307d6de939ff9944888b894ad429b677
+      internalID: -116789647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_203
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 3
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fddd80fa42fbd4b8f7464147cb6cf4
+      internalID: 1131980367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-coinsgemsetc-1_204
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 3
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a79eba8e76270447bcc62fc42621cb1
+      internalID: -438969441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      gdb-coinsgemsetc-1_24: 115145466
+      gdb-coinsgemsetc-1_156: 775102757
+      gdb-coinsgemsetc-1_90: 197591350
+      gdb-coinsgemsetc-1_37: 1755912914
+      gdb-coinsgemsetc-1_122: -1161289920
+      gdb-coinsgemsetc-1_7: -178737281
+      gdb-coinsgemsetc-1_199: -2099709199
+      gdb-coinsgemsetc-1_178: 161668658
+      gdb-coinsgemsetc-1_82: -1658242396
+      gdb-coinsgemsetc-1_166: -538384915
+      gdb-coinsgemsetc-1_128: -239835352
+      gdb-coinsgemsetc-1_48: 239358716
+      gdb-coinsgemsetc-1_65: -1525336409
+      gdb-coinsgemsetc-1_4: 145540786
+      gdb-coinsgemsetc-1_174: 1896052976
+      gdb-coinsgemsetc-1_175: 1692553935
+      gdb-coinsgemsetc-1_66: -1477161938
+      gdb-coinsgemsetc-1_177: -1155763947
+      gdb-coinsgemsetc-1_10: -1159446277
+      gdb-coinsgemsetc-1_97: 862819243
+      gdb-coinsgemsetc-1_63: 1211605865
+      gdb-coinsgemsetc-1_197: 1703534458
+      gdb-coinsgemsetc-1_161: 1682016035
+      gdb-coinsgemsetc-1_114: 625612662
+      gdb-coinsgemsetc-1_54: -1195799987
+      gdb-coinsgemsetc-1_29: 1646841226
+      gdb-coinsgemsetc-1_169: 1624061402
+      gdb-coinsgemsetc-1_68: 620141045
+      gdb-coinsgemsetc-1_134: -332043410
+      gdb-coinsgemsetc-1_131: -1672514604
+      gdb-coinsgemsetc-1_155: -1683486805
+      gdb-coinsgemsetc-1_67: -1822096544
+      gdb-coinsgemsetc-1_74: -1871879058
+      gdb-coinsgemsetc-1_21: 967165878
+      gdb-coinsgemsetc-1_96: -368674971
+      gdb-coinsgemsetc-1_190: 600530360
+      gdb-coinsgemsetc-1_27: -731743051
+      gdb-coinsgemsetc-1_55: 1875367137
+      gdb-coinsgemsetc-1_115: -235105340
+      gdb-coinsgemsetc-1_189: 1330882276
+      gdb-coinsgemsetc-1_143: 1253747262
+      gdb-coinsgemsetc-1_30: -976380767
+      gdb-coinsgemsetc-1_45: -1338663664
+      gdb-coinsgemsetc-1_126: -1410578247
+      gdb-coinsgemsetc-1_76: 2074767098
+      gdb-coinsgemsetc-1_34: 849024358
+      gdb-coinsgemsetc-1_102: 1264816318
+      gdb-coinsgemsetc-1_113: -775859143
+      gdb-coinsgemsetc-1_193: -319918003
+      gdb-coinsgemsetc-1_135: -1507649598
+      gdb-coinsgemsetc-1_148: 75599345
+      gdb-coinsgemsetc-1_40: -1225555722
+      gdb-coinsgemsetc-1_19: -2001673703
+      gdb-coinsgemsetc-1_46: 1347846373
+      gdb-coinsgemsetc-1_31: -2117507660
+      gdb-coinsgemsetc-1_154: 343732702
+      gdb-coinsgemsetc-1_25: -25747483
+      gdb-coinsgemsetc-1_109: -1935213640
+      gdb-coinsgemsetc-1_139: 1152522942
+      gdb-coinsgemsetc-1_196: 983315595
+      gdb-coinsgemsetc-1_72: -131748404
+      gdb-coinsgemsetc-1_42: -229914117
+      gdb-coinsgemsetc-1_173: 1740849491
+      gdb-coinsgemsetc-1_144: 259389581
+      gdb-coinsgemsetc-1_149: 48709286
+      gdb-coinsgemsetc-1_171: 1648927627
+      gdb-coinsgemsetc-1_43: 539705934
+      gdb-coinsgemsetc-1_200: -1350708325
+      gdb-coinsgemsetc-1_184: 1104075663
+      gdb-coinsgemsetc-1_158: 2088805646
+      gdb-coinsgemsetc-1_73: 1945874054
+      gdb-coinsgemsetc-1_80: 129121678
+      gdb-coinsgemsetc-1_119: 1244066365
+      gdb-coinsgemsetc-1_151: 1801046405
+      gdb-coinsgemsetc-1_111: -573353506
+      gdb-coinsgemsetc-1_181: -953959057
+      gdb-coinsgemsetc-1_198: -150787290
+      gdb-coinsgemsetc-1_61: 368349291
+      gdb-coinsgemsetc-1_204: -438969441
+      gdb-coinsgemsetc-1_22: -1095124683
+      gdb-coinsgemsetc-1_157: 804804362
+      gdb-coinsgemsetc-1_75: 1532893362
+      gdb-coinsgemsetc-1_17: -1850614448
+      gdb-coinsgemsetc-1_20: 45527253
+      gdb-coinsgemsetc-1_168: 989809288
+      gdb-coinsgemsetc-1_91: 425993307
+      gdb-coinsgemsetc-1_194: -51176714
+      gdb-coinsgemsetc-1_92: 648989072
+      gdb-coinsgemsetc-1_87: 1918954238
+      gdb-coinsgemsetc-1_26: -1738297489
+      gdb-coinsgemsetc-1_50: 1336685281
+      gdb-coinsgemsetc-1_33: -1557017061
+      gdb-coinsgemsetc-1_6: 403267513
+      gdb-coinsgemsetc-1_100: 1105653478
+      gdb-coinsgemsetc-1_69: -2101042624
+      gdb-coinsgemsetc-1_136: -574008247
+      gdb-coinsgemsetc-1_145: 1962705953
+      gdb-coinsgemsetc-1_56: 1597389496
+      gdb-coinsgemsetc-1_35: 1248624079
+      gdb-coinsgemsetc-1_160: -381028229
+      gdb-coinsgemsetc-1_150: -409361546
+      gdb-coinsgemsetc-1_57: 27640015
+      gdb-coinsgemsetc-1_32: -1864291385
+      gdb-coinsgemsetc-1_130: -1599816037
+      gdb-coinsgemsetc-1_112: -1797071448
+      gdb-coinsgemsetc-1_191: 1709662538
+      gdb-coinsgemsetc-1_89: 1486151007
+      gdb-coinsgemsetc-1_99: -746278559
+      gdb-coinsgemsetc-1_51: -1478606516
+      gdb-coinsgemsetc-1_176: 822878637
+      gdb-coinsgemsetc-1_141: 262879601
+      gdb-coinsgemsetc-1_129: -152055977
+      gdb-coinsgemsetc-1_49: 452099572
+      gdb-coinsgemsetc-1_188: 1675688894
+      gdb-coinsgemsetc-1_94: 200185879
+      gdb-coinsgemsetc-1_5: 521203938
+      gdb-coinsgemsetc-1_60: 1225341451
+      gdb-coinsgemsetc-1_52: 276585626
+      gdb-coinsgemsetc-1_202: -116789647
+      gdb-coinsgemsetc-1_140: -1431469341
+      gdb-coinsgemsetc-1_64: 2031902563
+      gdb-coinsgemsetc-1_187: -518663178
+      gdb-coinsgemsetc-1_9: 1090212507
+      gdb-coinsgemsetc-1_18: -251700434
+      gdb-coinsgemsetc-1_78: -786809610
+      gdb-coinsgemsetc-1_162: 1942648054
+      gdb-coinsgemsetc-1_79: -1316739000
+      gdb-coinsgemsetc-1_172: -18334024
+      gdb-coinsgemsetc-1_11: 913349665
+      gdb-coinsgemsetc-1_152: -791934228
+      gdb-coinsgemsetc-1_138: -819287765
+      gdb-coinsgemsetc-1_170: -1766318534
+      gdb-coinsgemsetc-1_153: 1583849996
+      gdb-coinsgemsetc-1_180: 1014430928
+      gdb-coinsgemsetc-1_44: -844815031
+      gdb-coinsgemsetc-1_167: 597532569
+      gdb-coinsgemsetc-1_41: 806861628
+      gdb-coinsgemsetc-1_98: 1047761838
+      gdb-coinsgemsetc-1_15: -1194635574
+      gdb-coinsgemsetc-1_124: 1714343080
+      gdb-coinsgemsetc-1_8: 1211865934
+      gdb-coinsgemsetc-1_81: -1318730623
+      gdb-coinsgemsetc-1_86: 227378173
+      gdb-coinsgemsetc-1_12: 1718331243
+      gdb-coinsgemsetc-1_182: -700093221
+      gdb-coinsgemsetc-1_83: -883796492
+      gdb-coinsgemsetc-1_58: -148413332
+      gdb-coinsgemsetc-1_164: 589527517
+      gdb-coinsgemsetc-1_146: -1324520135
+      gdb-coinsgemsetc-1_28: 535186388
+      gdb-coinsgemsetc-1_77: 459568354
+      gdb-coinsgemsetc-1_95: -1335216997
+      gdb-coinsgemsetc-1_105: -1822450944
+      gdb-coinsgemsetc-1_192: -1205671871
+      gdb-coinsgemsetc-1_110: 1477547720
+      gdb-coinsgemsetc-1_84: -468864608
+      gdb-coinsgemsetc-1_159: -1764939036
+      gdb-coinsgemsetc-1_137: -1274420142
+      gdb-coinsgemsetc-1_165: -759182421
+      gdb-coinsgemsetc-1_71: 955207200
+      gdb-coinsgemsetc-1_201: -811012775
+      gdb-coinsgemsetc-1_0: 1999130910
+      gdb-coinsgemsetc-1_16: 566400040
+      gdb-coinsgemsetc-1_183: 648693638
+      gdb-coinsgemsetc-1_3: -931050220
+      gdb-coinsgemsetc-1_127: -1178684248
+      gdb-coinsgemsetc-1_121: 695643394
+      gdb-coinsgemsetc-1_118: 2054592204
+      gdb-coinsgemsetc-1_39: 1358784562
+      gdb-coinsgemsetc-1_53: -1326615599
+      gdb-coinsgemsetc-1_117: 2143202311
+      gdb-coinsgemsetc-1_93: -729946979
+      gdb-coinsgemsetc-1_142: 87642045
+      gdb-coinsgemsetc-1_88: -373990599
+      gdb-coinsgemsetc-1_116: -452032464
+      gdb-coinsgemsetc-1_103: 1096711882
+      gdb-coinsgemsetc-1_132: 1481500998
+      gdb-coinsgemsetc-1_120: 1391011383
+      gdb-coinsgemsetc-1_107: -1931003352
+      gdb-coinsgemsetc-1_38: 97569095
+      gdb-coinsgemsetc-1_85: 2025242620
+      gdb-coinsgemsetc-1_195: -1412248771
+      gdb-coinsgemsetc-1_185: 1766013193
+      gdb-coinsgemsetc-1_23: 221608377
+      gdb-coinsgemsetc-1_36: 342787223
+      gdb-coinsgemsetc-1_47: 1404622541
+      gdb-coinsgemsetc-1_1: 1113319144
+      gdb-coinsgemsetc-1_62: 1501377746
+      gdb-coinsgemsetc-1_163: 1794866969
+      gdb-coinsgemsetc-1_186: 1173402877
+      gdb-coinsgemsetc-1_108: -1462709805
+      gdb-coinsgemsetc-1_203: 1131980367
+      gdb-coinsgemsetc-1_59: -313956022
+      gdb-coinsgemsetc-1_125: 83850687
+      gdb-coinsgemsetc-1_2: 2069951437
+      gdb-coinsgemsetc-1_14: 1114937130
+      gdb-coinsgemsetc-1_133: -1088780858
+      gdb-coinsgemsetc-1_106: -594569282
+      gdb-coinsgemsetc-1_101: -1406375255
+      gdb-coinsgemsetc-1_123: 1354153812
+      gdb-coinsgemsetc-1_104: 591440016
+      gdb-coinsgemsetc-1_13: 662546881
+      gdb-coinsgemsetc-1_179: -1709648317
+      gdb-coinsgemsetc-1_70: 590231889
+      gdb-coinsgemsetc-1_147: 1969878274
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
